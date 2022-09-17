@@ -1,0 +1,5 @@
+C:\studies\DevSoftVisual\Aula2\exercicio2\obj\Debug\net6.0\exercicio2.csproj.AssemblyReference.cache
+C:\studies\DevSoftVisual\Aula2\exercicio2\obj\Debug\net6.0\exercicio2.GeneratedMSBuildEditorConfig.editorconfig
+C:\studies\DevSoftVisual\Aula2\exercicio2\obj\Debug\net6.0\exercicio2.AssemblyInfoInputs.cache
+C:\studies\DevSoftVisual\Aula2\exercicio2\obj\Debug\net6.0\exercicio2.AssemblyInfo.cs
+C:\studies\DevSoftVisual\Aula2\exercicio2\obj\Debug\net6.0\exercicio2.csproj.CoreCompileInputs.cache

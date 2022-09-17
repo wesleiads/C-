@@ -1,0 +1,15 @@
+C:\studies\DevSoftVisual\Aula2\exercicios\obj\Debug\net6.0\exercicios.csproj.AssemblyReference.cache
+C:\studies\DevSoftVisual\Aula2\exercicios\obj\Debug\net6.0\exercicios.GeneratedMSBuildEditorConfig.editorconfig
+C:\studies\DevSoftVisual\Aula2\exercicios\obj\Debug\net6.0\exercicios.AssemblyInfoInputs.cache
+C:\studies\DevSoftVisual\Aula2\exercicios\obj\Debug\net6.0\exercicios.AssemblyInfo.cs
+C:\studies\DevSoftVisual\Aula2\exercicios\obj\Debug\net6.0\exercicios.csproj.CoreCompileInputs.cache
+C:\studies\DevSoftVisual\Aula2\exercicios\bin\Debug\net6.0\exercicios.exe
+C:\studies\DevSoftVisual\Aula2\exercicios\bin\Debug\net6.0\exercicios.deps.json
+C:\studies\DevSoftVisual\Aula2\exercicios\bin\Debug\net6.0\exercicios.runtimeconfig.json
+C:\studies\DevSoftVisual\Aula2\exercicios\bin\Debug\net6.0\exercicios.dll
+C:\studies\DevSoftVisual\Aula2\exercicios\bin\Debug\net6.0\exercicios.pdb
+C:\studies\DevSoftVisual\Aula2\exercicios\obj\Debug\net6.0\exercicios.dll
+C:\studies\DevSoftVisual\Aula2\exercicios\obj\Debug\net6.0\refint\exercicios.dll
+C:\studies\DevSoftVisual\Aula2\exercicios\obj\Debug\net6.0\exercicios.pdb
+C:\studies\DevSoftVisual\Aula2\exercicios\obj\Debug\net6.0\exercicios.genruntimeconfig.cache
+C:\studies\DevSoftVisual\Aula2\exercicios\obj\Debug\net6.0\ref\exercicios.dll

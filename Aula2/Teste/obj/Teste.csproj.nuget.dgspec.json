@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Estudos\\Aula\\Teste\\Teste.csproj": {}
+    "C:\\studies\\DevSoftVisual\\Aula2\\Teste\\Teste.csproj": {}
   },
   "projects": {
-    "C:\\Estudos\\Aula\\Teste\\Teste.csproj": {
+    "C:\\studies\\DevSoftVisual\\Aula2\\Teste\\Teste.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Estudos\\Aula\\Teste\\Teste.csproj",
+        "projectUniqueName": "C:\\studies\\DevSoftVisual\\Aula2\\Teste\\Teste.csproj",
         "projectName": "Teste",
-        "projectPath": "C:\\Estudos\\Aula\\Teste\\Teste.csproj",
+        "projectPath": "C:\\studies\\DevSoftVisual\\Aula2\\Teste\\Teste.csproj",
         "packagesPath": "C:\\Users\\Maktor\\.nuget\\packages\\",
-        "outputPath": "C:\\Estudos\\Aula\\Teste\\obj\\",
+        "outputPath": "C:\\studies\\DevSoftVisual\\Aula2\\Teste\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Maktor\\AppData\\Roaming\\NuGet\\NuGet.Config"
