@@ -1,0 +1,34 @@
+### List clients
+GET https://localhost:5001/api/client/listar
+
+### Read cliene
+GET https://localhost:5001/api/client/buscar/08860688970
+
+### Create client
+POST https://localhost:5001/api/client/cadastrar
+Content-Type: application/json
+
+{
+  "clientId": 1,
+  "name": "Esli",
+  "cpf": "08860688970",
+  "email": "eslireidelas@gmail.com",
+  "cellphone": "(041)998638486",
+  "criadoEm": "2022-09-29T23:13:37.634Z"
+}
+
+### Delete a client
+DELETE https://localhost:5001/api/client/deletar/1
+
+### Update a client
+PATCH https://localhost:5001/api/client/alterar
+Content-Type: application/json
+
+{
+  "clientId":1 ,
+  "name": "Weslei",
+  "cpf": "08860688979",
+  "email": "user@example.com",
+  "cellphone": "(041)999999999",
+  "criadoEm": "2022-09-29T23:13:37.634Z"
+}

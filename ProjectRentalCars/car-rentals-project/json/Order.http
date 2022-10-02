@@ -1,0 +1,38 @@
+### List orders
+GET https://localhost:5001/api/order/listar
+
+### Read order
+GET https://localhost:5001/api/order/buscar/6
+
+### Create order
+POST https://localhost:5001/api/order/cadastrar/
+Content-Type: application/json
+
+{
+  "orderId": 1,
+  "number": 1,
+  "clientId": 1,
+  "automobileId": 1, 
+  "total_Price": 666,
+  "total_Days": "5",
+  "end_Date": "20/10/2022",
+  "criadoEm": "2022-09-29T23:57:17.399Z"
+}
+
+### Delete order
+DELETE https://localhost:5001/api/order/deletar/1
+
+### Update order
+PATCH https://localhost:5001/api/order/alterar
+Content-Type: application/json
+
+{
+  "orderId": 1,
+  "number": 1,
+  "clientId": 1,
+  "automobileId": 1, 
+  "total_Price": 4000,
+  "total_Days": "string",
+  "end_Date": "20/10/2020",
+  "criadoEm": "2022-09-29T23:57:17.399Z"
+}

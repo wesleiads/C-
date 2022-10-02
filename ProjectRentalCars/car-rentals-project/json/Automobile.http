@@ -1,0 +1,38 @@
+### List cars
+GET https://localhost:5001/api/automobile/listar
+
+### Read cars  
+GET https://localhost:5001/api/automobile/buscar/1123446
+
+### Create car
+POST https://localhost:5001/api/automobile/cadastrar/
+Content-Type: application/json
+
+{
+  "automobileId": 1,
+  "type": "Carro passeio",
+  "models": "Corsa - Sedan",
+  "brand": "Ford",
+  "price_per_day": 260,
+  "year": "1998",
+  "placa": "13131313"
+    
+}
+
+### Delete car
+DELETE https://localhost:5001/api/automobile/deletar/1
+
+### Update car
+PATCH https://localhost:5001/api/automobile/alterar
+Content-Type: application/json
+
+{
+  "automobileId": 2,
+  "type": "Sedan",
+  "models": "fiesta",
+  "brand": "Ford",
+  "price_per_day": 100,
+  "year": "2020",
+  "criadoEm": "2022-09-24T18:43:37.968Z",
+  "placa": "47881255"
+}
