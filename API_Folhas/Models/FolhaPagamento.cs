@@ -29,6 +29,5 @@ namespace API_Folhas.Models
         }
         public DateTime CriadoEm { get; set; }
       
-
     }
 }
