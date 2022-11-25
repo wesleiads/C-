@@ -2,10 +2,10 @@ import { Selecao } from "./selecao.model";
 
 export interface Jogo {
   id?: number;
-  selecaoA?: Selecao;
-  selecaoAId: number,
-  selecaoB?: Selecao;
-  selecaoBId: number,
+  SelecaoA?: Selecao;
+  selecaoAId?: number,
+  SelecaoB?: Selecao;
+  selecaoBId?: number,
   criadoEm?: string;
   placar?: Number;
   placar1?: Number;
