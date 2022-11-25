@@ -1,0 +1,34 @@
+POST https://localhost:5001/api/jogo/cadastrar
+Content-Type: application/json
+
+{
+  "id": 1,
+  "selecaoA": {
+    "id": 1,
+    "criadoEm": "2022-11-25T00:30:53.537Z"
+  },
+  "selecaoB": {
+    "id": 1,
+    "nome": "string",
+    "criadoEm": "2022-11-25T00:30:53.537Z"
+  },
+  "placar": 0,
+  "placar1": 0,
+  "criadoEm": "2022-11-25T00:30:53.537Z"
+}
+
+###
+GET https://localhost:5001/api/jogo/listar
+
+
+PATCH https://localhost:5001/api/jogo/alterar
+
+{
+  "selecaoA": {
+    "id": 1
+  },
+  "selecaoB": {
+    "id": 2,
+    "placar1": 10
+  }
+}
