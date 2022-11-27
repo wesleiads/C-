@@ -1,28 +1,6 @@
-<h1>Listar jogos</h1>
-<table>
-  <tr>
-    <th>Número</th>
-    <th>Seleção A</th>
-    <th></th>
-    <th></th>
-    <th></th>
-    <th>Seleção B</th>
-    <th></th>
-    
-  </tr>
-  <tr *ngFor="let jogos of jogos">
-    <td>{{jogos.id}}</td>
-    <td>{{jogos.SelecaoA?.id}}</td>
-    <td>{{jogos.placar}}</td>
-    <td>X</td>
-    <td>{{jogos.placar1}}</td>
-    <td>{{jogos.SelecaoB?.nome}}</td>
-    
-    <td>
-      <a type="button" mat-raised-button
-      color="warn" routerLink="/pages/jogo/palpitar/{{ jogos.id }}"> Palpitar </a></td>
-    
-  </tr>
-</table>
-
-
+<mat-card class="container">
+  <mat-card-header>
+    <mat-card-title> Listar Jogos </mat-card-title>
+  </mat-card-header>
+  <mat-card-content> </mat-card-content>
+</mat-card>
